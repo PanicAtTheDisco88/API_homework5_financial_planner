@@ -3,7 +3,7 @@
 
 ## Background
 
-For homework 5/APIs, we were asked to analzye a hypothetical portfolio of crytocurrency (1.2 shares of BTC and 5.3 shares of ETH), 200 of US Aggregate Bond ETF (ticker: AGG), and 50 shares of the SPDR S&P 500 EFT. 
+For homework 5/APIs, we were asked to analzye a hypothetical portfolio of crytocurrency (1.2 shares of BTC and 5.3 shares of ETH), 200 of US Aggregate Bond ETF (ticker: AGG), and 50 shares of the SPDR S&P 500 ETF. 
 
 We were given a starter code file which dicated the structure of this program as well as variable types and names. 
 
